@@ -31,9 +31,9 @@ Here are some of the key projects I have worked on:
 - **Description**: A react+vite program to fetch fake api using useEffect and useState.
 - **Technologies Used**: HTML, CSS, REACT, VITE
 
-### [🐶 Animal and Dog Class](https://github.com/YashwantBist/animal-dog-class)
-- **Description**: Demonstrates the use of inheritance and polymorphism with an `Animal` base class and a `Dog` derived class.
-- **Technologies Used**: C++, OOP (Inheritance, Polymorphism)
+### [ColorBox](https://github.com/yashwantbist/Lab-3)
+- **Description**: A reusable React component that accepts a colour prop and displays a coloured box. Each box is clickable, and clicking changes the box's colour randomly.
+- **Technologies Used**: react, vite, data, 
 
 ### [Disk usage](https://github.com/yashwantbist/Disk-Usage)
 - **Description**: It calculates the allocation space for files and directories, providing detailed reports of cluster allocation. The program supports various command-line switches and handles complex input scenarios efficiently, making it a useful tool for analyzing disk space utilization.
