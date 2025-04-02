@@ -4,7 +4,7 @@
 
 I'm a passionate and driven **Software Developer** and **C++ enthusiast**, currently studying **Computer/Software Development** at St.Lawrence College,Cornwall. I'm focused on building clean, efficient, and scalable software applications. I enjoy solving complex problems and continuously learning new technologies.
 
-- 🔭 I’m currently working on **[Project Name]** — a C++ application to [short description of what it does].
+- 🔭 I’m currently working on rentmycar — a mern application to allow users to book,rent,comment and post on car listings.
 - 🌱 I’m currently learning **C++**, **Full-stack: MERN**, **Algorithms**, **Node.js**, **Php** and **Scripting**.
 - 💬 Ask me about **C++**, **Data Structures**, **Web-development**, or **Object-Oriented Programming**.
 - 📫 How to reach me: cout<< email<<"yashwantbist19@gmail.com"<< ednl;
