@@ -1,64 +1,116 @@
-# Hi there, I'm Yashwant Bist 👋 
+# Hi there, I'm Yashwant Bist 👋  
 
-## About Me
-
-I'm a passionate and driven **Software Developer** and **C++ enthusiast**, currently studying **Computer/Software Development** at St.Lawrence College,Cornwall. I'm focused on building clean, efficient, and scalable software applications. I enjoy solving complex problems and continuously learning new technologies.
-
-- 🔭 I’m currently working on rentmycar — a mern application to allow users to book,rent,comment and post on car listings.
-- 🌱 I’m currently learning **C++**, **Full-stack: MERN**, **Algorithms**, **Node.js**, **Php** and **Scripting**.
-- 💬 Ask me about **C++**, **Data Structures**, **Web-development**, or **Object-Oriented Programming**.
-- 📫 How to reach me: cout<< email<<"yashwantbist19@gmail.com"<< ednl;
+🚀 Software Developer | Full-Stack Engineer (MERN) | C++ & AI Enthusiast  
+📍 Cornwall, ON • 🎓 St. Lawrence College  
 
 ---
 
-## 🛠️ Technologies & Tools
+## 👨‍💻 About Me
 
-- **Languages**: C++, Python, JavaScript, SQL, HTML, CSS
-- **Tools**: Visual Studio, Git, GitHub, Postman,ejs, Nodejs, apache server 
-- **Technologies**: Object-Oriented Programming, Data Structures, Algorithms, REST APIs, Web Development
+I'm a passionate and results-driven **Software Developer** with strong foundations in **C++**, **Data Structures**, and **Full-Stack Web Development**. I enjoy building scalable applications, working with AI/ML systems, and turning ideas into real products.
 
----
-
-## 🚀 Projects
-
-Here are some of the key projects I have worked on:
-
-### [📦 Package Management System](https://github.com/yashwantbist/PackageManagement)
-- **Description**: A C++ project to manage package dimensions, loading, and displaying box information.
-- **Technologies Used**: C++, OOP, File I/O
-
-### [📚 Fake API using useEffect hook](https://github.com/yashwantbist/COMP2004-project-1-starter)
-- **Description**: A react+vite program to fetch fake api using useEffect and useState.
-- **Technologies Used**: HTML, CSS, REACT, VITE
-
-### [ColorBox](https://github.com/yashwantbist/Lab-3)
-- **Description**: A reusable React component that accepts a colour prop and displays a coloured box. Each box is clickable, and clicking changes the box's colour randomly.
-- **Technologies Used**: react, vite, data, 
-
-### [Disk usage](https://github.com/yashwantbist/Disk-Usage)
-- **Description**: It calculates the allocation space for files and directories, providing detailed reports of cluster allocation. The program supports various command-line switches and handles complex input scenarios efficiently, making it a useful tool for analyzing disk space utilization.
-- **Technologies Used**: C++, stlcontainers, oops, Error handling , std ++20.
+- 🔭 Currently building **AI-powered and full-stack applications**
+- 🌱 Learning **Advanced MERN**, **AI/ML**, **System Design**, and **Algorithms**
+- 💬 Ask me about **C++**, **MERN**, **Databases**, **APIs**, and **AI integration**
+- 📫 Reach me at: `cout << "yashwantbist19@gmail.com" << endl;`
 
 ---
 
+## 🛠️ Tech Stack
 
-## 📌 Highlights
+**Languages**  
+C++, JavaScript, Python, SQL, HTML, CSS  
 
-- **C++ Expert**: Proficient in using object-oriented principles and algorithms to solve real-world problems.
-- **Full Stack Developer in Progress**: Exploring JavaScript, React, and Node.js to build full-stack applications.
-- **Problem Solver**: Enjoy tackling challenges on platforms like **LeetCode** and **HackerRank**.
-- **Tech Enthusiast**: Always learning new concepts in tech to stay up-to-date in the industry.
+**Frameworks & Libraries**  
+React, Node.js, Express, MongoDB, Mongoose, Vite  
+
+**AI / ML**  
+OpenAI APIs, Prompt Engineering, Machine Learning, Data Analysis  
+
+**Tools**  
+Git, GitHub, Postman, VS Code, Linux, Apache Server  
 
 ---
 
-## 🧑‍💻 Get In Touch
+## 🚀 Featured Projects (Latest)
 
-- 📬 Email: yashwantbist19@gmail.com
+### 🧠 Langly AI — AI-Powered Language Learning Platform  
+**Full-Stack MERN + AI**
+
+An intelligent language-learning platform with AI-generated lessons, speech-to-text, text-to-speech, translations, quizzes, and progress tracking.
+
+**Key Features**
+- AI-generated CEFR-aligned lessons
+- Speech recognition & pronunciation feedback
+- Multi-language support
+- Progress tracking & interactive exercises
+
+**Tech:** React, Node.js, MongoDB, OpenAI API, Tailwind CSS  
+
+---
+
+### 🏠 Rooster Rentals — Rental Management Platform  
+**SaaS-Style MERN Application**
+
+A full-stack rental platform that allows users to list properties, manage bookings, payments, and rental history.
+
+**Tech:** MERN Stack, JWT Auth, REST APIs  
+
+---
+
+### 🚗 Car Rental Platform  
+**Full-Stack Web Application**
+
+A complete car rental system where users can browse, rent, review, and manage vehicle listings with real-time data handling.
+
+**Tech:** React, Node.js, MongoDB, Express  
+
+---
+
+### 🖼️ AI Image Captioning App  
+**Computer Vision + AI**
+
+An AI application that automatically generates human-like captions for images using deep learning models.
+
+**Tech:** Python, AI Models, Image Processing  
+
+---
+
+### 😊 Emotion Detector (Hack Radar Project)  
+**AI / ML Hackathon Project**
+
+Detects human emotions from facial expressions using machine learning and real-time input.
+
+**Tech:** Python, ML, Computer Vision  
+
+---
+
+### 🌡️ Predicting Cornwall Mean Temperature  
+**Machine Learning Project**
+
+A data-driven ML model to predict mean temperature in Cornwall using historical weather data.
+
+**Tech:** Python, Pandas, Scikit-Learn, Data Analysis  
+
+---
+
+## 📌 Strengths
+
+- ✅ Strong **C++ & OOP** foundations
+- 📊 Experience with **AI/ML & data-driven systems**
+- 🌐 Full-Stack development with **MERN**
+- 🧠 Problem-solver (DSA, Algorithms)
+- 🚀 Product-focused mindset
+
+---
+
+## 🔗 Connect With Me
+
+- 📬 Email: **yashwantbist19@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/yashwant-bist/
-- 🌍 Portfolio: [Yashwant's Portfolio](https://yashwant-portfolio.com)
-- 🐦 Twitter: [@yashwant_b8437](https://x.com/yashwant_b8437)
+- 🌍 Portfolio: https://yashwant-bist.netlify.app/
+- 🐦 X (Twitter): https://x.com/yashwant_b8437
 
 ---
 
-
-Thank you for visiting my GitHub profile! 🚀
+⭐️ Thanks for visiting my GitHub profile — let’s build something amazing!
